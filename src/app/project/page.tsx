@@ -29,7 +29,9 @@ export default function Project() {
         <h1>Spectrum NEXT project</h1>
       </div>
       <div className="mb-32 text-center lg:max-w-5xl lg:w-full lg:mb-0 lg:grid-cols-4">
-        <p>The SPECTRUM Next is started in 2017.</p>
+        <p>The SPECTRUM Next is started in 2017. This project has begin from myself. My skills has multi-action and combine working premire at creation progress.<br/>I get friends of personality and multi-groups.</p>
+        <p>I know many stories and interesting massing events and activities.The SPECTRUMNext has origin name is "SPECTRUM GAMER" in 2017.</p>
+        <p>At 2022 name has changed to "SPECTRUM Next" from that time to now.</p>
       </div>
     </main>
   );

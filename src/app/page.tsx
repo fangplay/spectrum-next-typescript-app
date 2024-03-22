@@ -1,5 +1,6 @@
 import Image from "next/image";
 import Link from 'next/link';
+import projectlogo from "./project/images/logo-project.png";
 
 export default function Home() {
   return (
@@ -38,7 +39,8 @@ export default function Home() {
           height={37}
           priority
         /> */}
-        <h1>Spectrum NEXT project</h1>
+        {/* <h1>Spectrum NEXT project</h1> */}
+        <Image src={projectlogo} alt="project logo" width={1280} height={720}/>
       </div>
       <div className="mb-32 grid text-center lg:max-w-5xl lg:w-full lg:mb-0 lg:grid-cols-4 lg:text-left">
       <Link

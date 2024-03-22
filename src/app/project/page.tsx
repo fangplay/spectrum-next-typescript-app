@@ -1,4 +1,5 @@
 import Image from "next/image";
+import projectlogo from "./images/logo-project.png";
 
 export default function Project() {
   return (
@@ -26,7 +27,8 @@ export default function Project() {
         </div>
       </div>
       <div className="relative flex place-items-center">
-        <h1>Spectrum NEXT project</h1>
+        {/* <h1>Spectrum NEXT project</h1> */}
+        <Image src={projectlogo} alt="project logo" width={1280} height={720}/>
       </div>
       <div className="mb-32 text-center lg:max-w-5xl lg:w-full lg:mb-0 lg:grid-cols-4">
         <p>The SPECTRUM Next is started in 2017. This project has begin from myself. My skills has multi-action and combine working premire at creation progress.<br/>I get friends of personality and multi-groups.</p>

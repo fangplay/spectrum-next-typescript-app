@@ -30,50 +30,69 @@ export default function Contaxt() {
         <h1>Contact</h1>
       </div>
       <div className="mb-32 text-center lg:max-w-5xl lg:w-full lg:mb-0 lg:grid-cols-4">
-        <Image src={card} alt="business card" width={1280} height={720}/>
-        <p>*Note : I recommend don't use LINE for work commucation because it will deleted after longtime chat and not comfortable work chat progession.</p>
+        <Image src={card} alt="business card" width={1280} height={720} />
+        <p>
+          *Note : I recommend don't use LINE for work commucation because it
+          will deleted after longtime chat and not comfortable work chat
+          progession.
+        </p>
       </div>
-      <div className="mb-32 text-center lg:max-w-5xl lg:w-full lg:mb-0 lg:grid-cols-4">
-      <div className="col-md-16">
-        <h3>My Contact</h3>
-        <p>Programmer Work Session</p>
-        <ul>
-          <li>Phone:(+66)0866911960</li>
-          <li>
-            Email:<a href="mailto:fangplay-working@hotmail.com"
-              >fangplay-working@hotmail.com</a
-            >
-          </li>
-          <li>
-            LinkedIn:
-            <a
-              href="https://www.linkedin.com/in/sirirak-sophakarn-442310158/"
-              target="_blank"
-              >Sirirak Sophakarn</a
-            >
-          </li>
-          <li>GitHub:<a href="https://github.com/fangplay" target="_blank">FANGPLAY Sirirak</a></li>
-        </ul>
-        <br/>
-        <p>Channel Work Session</p>
-        <ul>
-          <li>Phone:(+66)0866911960</li>
-          <li>
-            Email:<a href="mailto:fangplay_2014@hotmail.com"
-              >fangplay_2014@hotmail.com</a
-            >
-          </li>
-          <li>
-            Facebook:
-            <a
-              href="https://www.facebook.com/fangplay.sirirak"
-              target="_blank"
-              >Sirirak Sophakarn</a
-            >
-          </li>
-        </ul>
+      <div className="container-fluid">
+        <div className="container">
+          <div className="row">
+            <div className="mb-32 text-center lg:max-w-5xl lg:w-full lg:mb-0 lg:grid-cols-4">
+              <div className="col-md-16">
+                <h3>My Contact</h3>
+                <p>Programmer Work Session</p>
+                <ul>
+                  <li>Phone:(+66)0866911960</li>
+                  <li>
+                    Email:
+                    <a href="mailto:fangplay-working@hotmail.com">
+                      fangplay-working@hotmail.com
+                    </a>
+                  </li>
+                  <li>
+                    LinkedIn:
+                    <a
+                      href="https://www.linkedin.com/in/sirirak-sophakarn-442310158/"
+                      target="_blank"
+                    >
+                      Sirirak Sophakarn
+                    </a>
+                  </li>
+                  <li>
+                    GitHub:
+                    <a href="https://github.com/fangplay" target="_blank">
+                      FANGPLAY Sirirak
+                    </a>
+                  </li>
+                </ul>
+                <br />
+                <p>Channel Work Session</p>
+                <ul>
+                  <li>Phone:(+66)0866911960</li>
+                  <li>
+                    Email:
+                    <a href="mailto:fangplay_2014@hotmail.com">
+                      fangplay_2014@hotmail.com
+                    </a>
+                  </li>
+                  <li>
+                    Facebook:
+                    <a
+                      href="https://www.facebook.com/fangplay.sirirak"
+                      target="_blank"
+                    >
+                      Sirirak Sophakarn
+                    </a>
+                  </li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
       </div>
-			</div>
     </main>
   );
 }

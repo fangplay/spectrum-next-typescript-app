@@ -1,5 +1,5 @@
 import Image from "next/image";
-import card from "./images/business-card.png";
+import card from "./images/business-card.jpg";
 
 export default function Contaxt() {
   return (

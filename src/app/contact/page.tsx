@@ -1,4 +1,5 @@
 import Image from "next/image";
+import card from "./images/business-card.png";
 
 export default function Contaxt() {
   return (
@@ -27,6 +28,10 @@ export default function Contaxt() {
       </div> */}
       <div className="relative flex place-items-center">
         <h1>Contact</h1>
+      </div>
+      <div className="mb-32 text-center lg:max-w-5xl lg:w-full lg:mb-0 lg:grid-cols-4">
+        <Image src={card} alt="business card" width={1280} height={720}/>
+        <p>*Note : I recommend don't use LINE for work commucation because it will deleted after longtime chat and not comfortable work chat progession.</p>
       </div>
       <div className="mb-32 text-center lg:max-w-5xl lg:w-full lg:mb-0 lg:grid-cols-4">
       <div className="col-md-16">

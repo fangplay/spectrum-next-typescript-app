@@ -74,11 +74,11 @@ export default function Contaxt() {
                   <li>Phone:(+66)0866911960</li>
                   <li>
                     Email:
-                    <a href="mailto:fangplay_2014@hotmail.com">
-                      fangplay_2014@hotmail.com
+                    <a href="mailto:fangplay_2024@hotmail.com">
+                      fangplay_2024@hotmail.com
                     </a>
                   </li>
-                  <li>
+{/*                   <li>
                     Facebook:
                     <a
                       href="https://www.facebook.com/fangplay.sirirak"
@@ -86,7 +86,7 @@ export default function Contaxt() {
                     >
                       Sirirak Sophakarn
                     </a>
-                  </li>
+                  </li> */}
                 </ul>
               </div>
             </div>

@@ -34,9 +34,10 @@ export default function Project() {
         <div className="container">
           <div className="row">
       <div className="mb-32 text-center lg:max-w-5xl lg:w-full lg:mb-0 lg:grid-cols-4">
-        <p>The SPECTRUM Next is started in 2017. This project has begin from myself. My skills has multi-action and combine working premire at creation progress.<br/>I get friends of personality and multi-groups.</p>
+        <p>The SPECTRUMNext is started in 2017. This project has begin from myself. My skills has multi-action and combine working premire at creation progress.<br/>I get friends of personality and multi-groups.<br/>The making connection on multi-events and society when meeting and online meeting on every time/days.</p>
+        <p>I get connection skills and chain continue real-time situations.I got multi-personality on my friends and my connections.</p>
         <p>I know many stories and interesting massing events and activities.The SPECTRUMNext has origin name is "SPECTRUM GAMER" in 2017.</p>
-        <p>At 2022 name has changed to "SPECTRUM Next" from that time to now.</p>
+        <p>At 2022 name has changed to "SPECTRUMNext" from that time to now.</p>
       </div></div></div></div>
     </main>
   );

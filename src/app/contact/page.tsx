@@ -43,13 +43,13 @@ export default function Contaxt() {
             <div className="mb-32 text-center lg:max-w-5xl lg:w-full lg:mb-0 lg:grid-cols-4">
               <div className="col-md-16">
                 <h3>My Contact</h3>
-                <p>Programmer Work Session</p>
+                <p>Programmer Connection</p>
                 <ul>
                   <li>Phone:(+66)0866911960</li>
                   <li>
                     Email:
-                    <a href="mailto:fangplay-working@hotmail.com">
-                      fangplay-working@hotmail.com
+                    <a href="mailto:sirirak.s@outlook.com">
+                      sirirak.s@outlook.com
                     </a>
                   </li>
                   <li>
@@ -69,13 +69,19 @@ export default function Contaxt() {
                   </li>
                 </ul>
                 <br />
-                <p>Channel Work Session</p>
+                <p>Channel & Personal Connection</p>
                 <ul>
                   <li>Phone:(+66)0866911960</li>
                   <li>
-                    Email:
+                    Email(Outlook):
                     <a href="mailto:fangplay_2024@hotmail.com">
                       fangplay_2024@hotmail.com
+                    </a>
+                  </li>
+                  <li>
+                    Email(Google Mail):
+                    <a href="mailto:fangplay.sirirak@gmail.com">
+                      fangplay.sirirak@gmail.com
                     </a>
                   </li>
 {/*                   <li>

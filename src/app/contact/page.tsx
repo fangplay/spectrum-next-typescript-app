@@ -72,12 +72,12 @@ export default function Contaxt() {
                 <p>Channel & Personal Connection</p>
                 <ul>
                   <li>Phone:(+66)0866911960</li>
-                  <li>
+            {/*  <li>
                     Email(Outlook):
                     <a href="mailto:fangplay_2024@hotmail.com">
                       fangplay_2024@hotmail.com
                     </a>
-                  </li>
+                  </li> */}
                   <li>
                     Email(Google Mail):
                     <a href="mailto:fangplay.sirirak@gmail.com">

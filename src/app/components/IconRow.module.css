@@ -1,0 +1,17 @@
+/* .iconRow {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding: 10px;
+  background-color: black;
+  height: 10vh;
+} */
+
+.iconContainer {
+  display: flex;
+  align-items: center;
+}
+
+.icon {
+  margin-right: 10px; /* Adjust spacing as needed */
+}
